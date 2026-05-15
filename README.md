@@ -102,14 +102,10 @@
   </ul>
 </div>
 <!--tech stack icons-->
+<!-- 平台 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,html,css,go,java,js,swift&perline=14" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,django,dotnet,nestjs,nodejs,nuxtjs,flask&perline=14" />
+    <img src="https://skillicons.dev/icons?i=windows,androidstudio,apple&perline=14" />
   </a>
 </p>
 <p align="center">
@@ -117,20 +113,27 @@
     <img src="https://skillicons.dev/icons?i=mysql,postgres,redis&perline=14" />
   </a>
 </p>
+<!-- 运维 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,apple&perline=14" />
+    <img src="https://skillicons.dev/icons?i=linux,nginx,arduino,docker,grafana,jenkins,kubernetes,figma,git,redhat&perline=14" />
   </a>
 </p>
+<!-- 工具 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,nginx,arduino,docker,grafana,jenkins,kubernetes
-figma,git,redhat&perline=14" />
+    <img src="https://skillicons.dev/icons?i=atom,eclipse,gitlab,idea,ps,postman,pycharm,sublime&perline=14" />
   </a>
 </p>
+<!-- 框架 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=atom,eclipse,gitlab,idea,ps,postman,pycharm,sublime
-&perline=14" />
+    <img src="https://skillicons.dev/icons?i=anaconda,django,dotnet,nestjs,nodejs,nuxtjs,flask&perline=14" />
+  </a>
+</p>
+<!-- 开发语言 -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,html,css,go,java,js,swift&perline=14" />
   </a>
 </p>
