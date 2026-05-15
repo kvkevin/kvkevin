@@ -125,7 +125,7 @@
 <!-- 运维 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,nginx,vim,arduino,raspberrypi,docker,grafana,jenkins,kubernetes,figma,git,redhat&perline=14" />
+    <img src="https://skillicons.dev/icons?i=linux,nginx,vim,arduino,raspberrypi,docker,grafana,jenkins,kubernetes,git,redhat&perline=14" />
   </a>
 </p>
 <!-- 开发语言 -->
@@ -134,3 +134,4 @@
     <img src="https://skillicons.dev/icons?i=py,c,cs,cpp,html,css,js,ts,go,java,js,swift&perline=14" />
   </a>
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
