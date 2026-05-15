@@ -113,7 +113,7 @@
 <!-- 运维 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,nginx,arduino,docker,grafana,jenkins,kubernetes,figma,git,redhat&perline=14" />
+    <img src="https://skillicons.dev/icons?i=linux,nginx,vim,arduino,raspberrypi,docker,grafana,jenkins,kubernetes,figma,git,redhat&perline=14" />
   </a>
 </p>
 <!-- 工具 -->
@@ -125,12 +125,12 @@
 <!-- 框架 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,django,dotnet,nestjs,nodejs,nuxtjs,flask&perline=14" />
+    <img src="https://skillicons.dev/icons?i=anaconda,pytorch,opencv,django,dotnet,nestjs,nodejs,nuxtjs,flask&perline=14" />
   </a>
 </p>
 <!-- 开发语言 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,html,css,go,java,js,swift&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,c,cs,cpp,html,css,js,ts,go,java,js,swift&perline=14" />
   </a>
 </p>
