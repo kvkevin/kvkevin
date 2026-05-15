@@ -76,10 +76,10 @@
 ---
 
 ## 🏅 GitHub 勋章与数据卡片
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kvkevin&show_icons=true&theme=tokyonight" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvkevin&layout=compact&theme=tokyonight" width="48%"/>
-</p>
+</p> -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kvkevin&theme=tokyonight" width="55%"/>
 </p>
