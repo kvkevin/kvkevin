@@ -107,4 +107,36 @@
     <img src="https://skillicons.dev/icons?i=git,css,docker,postgres,figma,redis,github,html,java,js,linux,md,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,ts,vscode,kubernetes&perline=14" />
   </a>
 </p>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,html,css,go,java,js,swift&perline=14" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,django,dotnet,nestjs,nodejs,nuxtjs,flask&perline=14" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis&perline=14" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,apple&perline=14" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,nginx,arduino,docker,grafana,jenkins,kubernetes
+figma,git,redhat
+&perline=14" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=atom,eclipse,gitlab,idea,ps,postman,pycharm,sublime
+&perline=14" />
+  </a>
+</p>
