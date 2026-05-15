@@ -110,12 +110,6 @@
     <img src="https://skillicons.dev/icons?i=mysql,postgres,redis&perline=14" />
   </a>
 </p>
-<!-- 运维 -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,nginx,vim,arduino,raspberrypi,docker,grafana,jenkins,kubernetes,figma,git,redhat&perline=14" />
-  </a>
-</p>
 <!-- 工具 -->
 <p align="center">
   <a href="https://skillicons.dev">
@@ -126,6 +120,12 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=anaconda,pytorch,opencv,django,dotnet,nestjs,nodejs,nuxtjs,flask&perline=14" />
+  </a>
+</p>
+<!-- 运维 -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,nginx,vim,arduino,raspberrypi,docker,grafana,jenkins,kubernetes,figma,git,redhat&perline=14" />
   </a>
 </p>
 <!-- 开发语言 -->
