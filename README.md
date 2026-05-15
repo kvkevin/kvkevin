@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
 <h1>👋 你好，我是kevin</h1>
 <p>全栈开发 | 后端开发 | 前端开发 | 持续学习 | 开源爱好者</p>
@@ -92,3 +94,17 @@
 <p align="left">
 请提交PR或者i漂流瓶联系
 </p>
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">要你命3000 工具箱大全👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,docker,postgres,figma,redis,github,html,java,js,linux,md,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,ts,vscode,kubernetes&perline=14" />
+  </a>
+</p>
+
